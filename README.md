@@ -1,5 +1,4 @@
 # DevLinks
-----
 Programa do curso Discorver, promovido pela Rocketseat.
 
 ![Capa do projeto](./.github/Capa.jpg)
